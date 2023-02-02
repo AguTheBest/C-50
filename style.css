@@ -1,0 +1,29 @@
+
+h1{
+    color:red
+}
+*{
+    border: solid
+}
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: blueviolet;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer {
+    display:flex;
+    flex-direction:column;
+    justify-content:right;
+    background-color: crimson;
+  }
+
+
+
